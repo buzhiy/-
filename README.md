@@ -40,92 +40,9 @@
 <tr><td>
 
 ### 🤺 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-
 <p>&emsp;&emsp;嗨，你好，欢迎来到我的GitHub仓库。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
 </td></tr>
-
-<tr><td>
-
-
-### 📃 Recent Blog
-
-<!-- feed start -->
-
-<!-- feed end -->
-
-</td></tr>
-
-<tr><td>
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                673 commits         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-🌆 Daytime                813 commits         ████████░░░░░░░░░░░░░░░░░   32.42 % 
-🌃 Evening                585 commits         ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-🌙 Night                  437 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Tuesday                  244 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Wednesday                389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Thursday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Friday                   630 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Sunday                   426 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               22 hrs 4 mins       ███████████████████████░░   93.32 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Bash                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-SCSS                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-
-🔥 Editors: 
-VS Code                  23 hrs 39 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      23 hrs 39 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 18/07/2025 00:46:40 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
-
 </table>
 
 
